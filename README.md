@@ -1,7 +1,4 @@
 # JS_todo_app_udemy
 Created with CodeSandbox
 
-
-
-https://github.com/user-attachments/assets/f30b3711-01f0-4ea5-b031-48e17a8b3972
-
+![Screen Recording 2025-01-30 at 9](https://github.com/user-attachments/assets/934aad48-e2a7-462f-96cc-4530cc2f1408)
